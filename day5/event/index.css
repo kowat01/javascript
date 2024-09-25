@@ -1,0 +1,13 @@
+main {
+  width: 100vw;
+}
+
+.container {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.box {
+  width: 100px;
+  height: 100px;
+}
